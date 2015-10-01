@@ -1,4 +1,6 @@
 <meta charset="utf-8">
 <script>
-alert("Hello, world") 
+alert("Hello, world");
+var name = prompt('Your name');
+alert(name); 
 </script>
