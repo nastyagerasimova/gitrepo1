@@ -3,7 +3,8 @@
 alert("Hello, world");
 var name = prompt('Your name');
 alert(name); 
-alert('you are nice')
+alert('you are nice');
 alert('great')
-alert('fuck you!')
+alert('fuck you!');
+alert('you are nice');
 </script>
