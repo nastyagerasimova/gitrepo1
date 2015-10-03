@@ -7,4 +7,5 @@ alert('you are nice');
 alert('great');
 alert('fuck you!');
 alert('you are nice');
+alert('great job');
 </script>
