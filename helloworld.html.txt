@@ -4,4 +4,5 @@ alert("Hello, world");
 var name = prompt('Your name');
 alert(name); 
 alert('you are nice')
+alert('great')
 </script>
